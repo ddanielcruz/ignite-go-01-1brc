@@ -1,4 +1,4 @@
-# 1 Billion Row Challenge
+# Ignite Go 01 - 1 Billion Row Challenge
 
 This project is a simple implementation of the 1 Billion Row Challenge (1BRC) using Go. It's part of the [Rocketseat Golang course](rocketseat.com.br), designed to help developers learn and apply Go concepts through practical challenges.
 
